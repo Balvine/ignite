@@ -1,0 +1,20 @@
+.chart{
+    flex: 70%;
+    box-shadow: 3px 3px 10px 2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 3px 3px 10px 2px rgba(0,0,0,0.75);
+    .charttop{
+        display: flex;
+        justify-content: center;
+        .charticon{
+            color: #017EFA;
+            font-size: 2.5rem;
+        }
+        .charttext{
+            font-family: Adamina;
+            font-size: 1.2rem;
+        }
+    }
+    .circular{
+        width: 1rem;
+    }
+}

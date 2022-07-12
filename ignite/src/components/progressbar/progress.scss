@@ -1,0 +1,19 @@
+.progres{
+    box-shadow: 3px 3px 10px 2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 3px 3px 10px 2px rgba(0,0,0,0.75);
+    flex:30%;
+    .ptop{
+        .ptopl{
+            display: flex;
+            padding: .5rem;
+            .sumicon{
+                color: #017EFA;
+                font-size: 2.5rem;
+            }
+            .sumtitle{
+                font-family: Adamina;
+                font-size: 1.5rem;
+            }
+        }
+    }
+}

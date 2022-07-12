@@ -1,0 +1,13 @@
+.center{
+    margin: 0;
+    padding: 0;
+    flex: 8;
+    .charts{
+        display: flex;
+        padding: 1rem;
+        gap: 2rem;
+    }
+    .date{
+        display: flex;
+    }
+}
